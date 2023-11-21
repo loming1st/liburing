@@ -1,0 +1,11 @@
+{
+    "makefile.alwaysPreConfigure": true,
+    "makefile.preConfigureScript": "${workspaceFolder}/.vscode/preconfigure.sh",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/ming/code/liburing/test",
+            "binaryPath": "/home/ming/code/liburing/test/accept.t",
+            "binaryArgs": []
+        }
+    ],
+}

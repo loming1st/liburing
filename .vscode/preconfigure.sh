@@ -1,0 +1,1 @@
+export CFLAGS='-g -O0 -Wall -Wextra'
